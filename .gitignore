@@ -21,3 +21,5 @@ dll*
 *~
 README
 LICENSE
+Build
+_build/*
