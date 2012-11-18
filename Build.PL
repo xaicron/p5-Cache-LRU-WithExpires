@@ -5,7 +5,6 @@ use Module::Build;
 my $build = Module::Build->new(
     license        => 'perl',
     dynamic_config => 0,
-    dist_abstract  => 'XXX',
 
     build_requires     => {
         'Test::More'     => '0.98',
